@@ -205,15 +205,9 @@ body.is-fixed {
   max-width: 900px;
   margin: 0 auto;
 }
-.price .section-title {
-  font-size: 28px;
-  text-align: center;
-  margin-bottom: 24px;
-  font-weight: bold;
-}
 .price__note {
-  text-align: center;
-  font-size: 14px;
+  font-size: 16px;
+  line-height: 1.6;
   color: #777;
   margin-bottom: 40px;
 }
