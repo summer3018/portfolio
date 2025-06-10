@@ -270,7 +270,7 @@ body {
 // price
 .price {
   padding: 80px 20px;
-  background-color: #f9f9f9;
+  background-color: #fff;
 
   &__inner {
     max-width: 900px;
@@ -573,6 +573,7 @@ body {
   }
 
   .about{
+    background: #f9f9f9;
 
     &__container{
       display: flex;

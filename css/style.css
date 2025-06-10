@@ -199,7 +199,7 @@ body.is-fixed {
 
 .price {
   padding: 80px 20px;
-  background-color: #f9f9f9;
+  background-color: #fff;
 }
 .price__inner {
   max-width: 900px;
@@ -425,6 +425,9 @@ body.is-fixed {
   }
   .works__item + .works__item {
     margin-top: 0;
+  }
+  .about {
+    background: #f9f9f9;
   }
   .about__container {
     display: flex;
